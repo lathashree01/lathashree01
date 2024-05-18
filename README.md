@@ -1,8 +1,8 @@
 
 <h1 align="center">Greetings! 👋 I am Lathashree Harisha</h1>
-<h3>Machine Learning Engineer | Woman in Tech | Passionately Positive</h3>
+<h3 align="center">Machine Learning Engineer | Woman in Tech | Passionately Positive</h3>
 
-<h4>On a mission to make machines smart for the smarter world !! Ain't that great 😉 </h4>
+<h4  align="center">On a mission to make machines smart for the smarter world !! Ain't that great 😉 </h4>
 
 ## About Me:
 I am currently working as a Machine Learning Engineer at [Vaarst](https://vaarst.com/), an industry leader in building 3D subsea cameras coupled with advanced data insight solutions. 
