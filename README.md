@@ -4,7 +4,7 @@
 
 <h4>On a mission to make machines smart for the smarter world !! Ain't that great 😉 </h4>
 
-# About Me:
+## About Me:
 I am currently working as a Machine Learning Engineer at [Vaarst](https://vaarst.com/), an industry leader in building 3D subsea cameras coupled with advanced data insight solutions. 
 
 Recently, I graduated from Imperial College London with a highly specialized Master's in Artificial Intelligence and Machine Learning. With 4 years of professional experience in crafting and implementing ML-based applications, I am passionate about leveraging cutting-edge technology to accelerate business growth and deliver impactful results.
