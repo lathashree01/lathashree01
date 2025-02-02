@@ -11,4 +11,4 @@ I am passionate about leveraging cutting-edge technology to accelerate business 
 
 📫 You can reach me at lathashreeharish01@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lathashree-harisha/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lathashree/)
