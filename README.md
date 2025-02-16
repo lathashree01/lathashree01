@@ -5,10 +5,21 @@
 <h4  align="center">On a mission to make machines smart for the smarter world !! 😉 </h4>
 
 ## About Me:
-I am currently working as a Machine Learning Engineer. I have a Master's in Artificial Intelligence and Machine Learning from [Imperial College London](https://www.imperial.ac.uk/) and have 4 years of professional experience in crafting and implementing ML-based applications at Sony. 
+I am a **Machine Learning Engineer** specialising in **Computer Vision, NLP (LLMs), and MLOps**, currently building ML solutions for subsea systems at **Beam**.
 
-I am passionate about leveraging cutting-edge technology to accelerate business growth and deliver impactful results. I love exploring and learning new things in the ever-evolving field of Machine Learning. Every day I enjoy the challenges and opportunities that come with working in this dynamic field and, am always looking forward to pushing the boundaries of what technology can achieve and the positive impact it can create.
+- 🔹 Experienced in designing **scalable and efficient ML solutions**, focusing on **quantisation, distributed training, and ML best practices**.  
+- ⏮️ Previously a **Senior Engineer at Sony**, driving ML-powered solutions to drive the business impact of various Sony entities within Sony Corporation.
+- 🎓 Hold an MSc degree in **AI & ML from [Imperial College London](https://www.imperial.ac.uk/)**.
+- ❤️ Passionate about learning new things and always full of energy!  
+- 🌱 Thrive in challenging environments; driven by the desire to push the boundaries of technology and create a positive impact.  
 
-📫 You can reach me at lathashreeharish01@gmail.com
+### 🔬 Research & Projects  
+- 🚀 Pre-trained and fine-tuned **LLaMA 2** for the **healthcare domain** using **DeepSpeed and PEFT quantization**.  
+- 📖 Passionate about **AI research**, staying updated through **conferences, papers, and hands-on experimentation**. You can find much of my work here on GitHub and my learning history on LinkedIn.
+- ✍️ When possible, I like to write articles on medium.com to share them with the community. You can check it out [here](https://medium.com/@lathashree01) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lathashree/)
+
+## 📫 Let us Connect 
+Feel free to check out my work or reach me at lathashreeharish01@gmail.com
+
+[![Visit my LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lathashree/)
