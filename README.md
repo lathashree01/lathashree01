@@ -21,4 +21,5 @@ I am a **Machine Learning Engineer** specialising in **Computer Vision, NLP (LLM
 
 ## 📫 Let us Connect 
 Feel free to check out my work or reach me at lathashree.harisha@gmail.com
-[![Visit my LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lathashree/)
+
+To connect with me on LinkedIn - [![Visit my LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lathashree/)
