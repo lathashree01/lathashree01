@@ -14,12 +14,11 @@ I am a **Machine Learning Engineer** specialising in **Computer Vision, NLP (LLM
 - 🌱 Thrive in challenging environments; driven by the desire to push the boundaries of technology and create a positive impact.  
 
 ### 🔬 Research & Projects  
-- 🚀 Pre-trained and fine-tuned **LLaMA 2** for the **healthcare domain** using **DeepSpeed and PEFT quantization**.  
-- 📖 Passionate about **AI research**, staying updated through **conferences, papers, and hands-on experimentation**. You can find much of my work here on GitHub and my learning history on LinkedIn.
-- ✍️ When possible, I like to write articles on medium.com to share them with the community. You can check it out [here](https://medium.com/@lathashree01) 
+- 🚀 Pre-trained and fine-tuned **LLaMA 2** for the **healthcare domain** (named them as Clini-LLaMA) using **DeepSpeed and PEFT quantisation**.  
+- 📖 Passionate about **AI research**, staying updated through **conferences, papers, and hands-on experimentation**. You can find some my work here on GitHub and my learning history on LinkedIn.
+- ✍️ When possible, I like to write articles on medium.com to share my learnings with the community. You can check out my post [here](https://medium.com/@lathashree01).
 
 
 ## 📫 Let us Connect 
-Feel free to check out my work or reach me at lathashreeharish01@gmail.com
-
+Feel free to check out my work or reach me at lathashree.harisha@gmail.com
 [![Visit my LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lathashree/)
