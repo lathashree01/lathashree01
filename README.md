@@ -15,8 +15,8 @@ I am a **Machine Learning Engineer** specialising in **Computer Vision, NLP (LLM
 
 ### 🔬 Research & Projects  
 - 🚀 Pre-trained and fine-tuned **LLaMA 2** for the **healthcare domain** (named them as Clini-LLaMA) using **DeepSpeed and PEFT quantisation**.  
-- 📖 Passionate about **AI research**, staying updated through **conferences, papers, and hands-on experimentation**. You can find some my work here on GitHub and my learning history on LinkedIn.
-- ✍️ When possible, I like to write articles on medium.com to share my learnings with the community. You can check out my post [here](https://medium.com/@lathashree01).
+- 📖 Passionate about **AI research**, staying updated through **conferences, papers, and hands-on experimentation**. You can find some of my work here on GitHub and my learning history on LinkedIn.
+- ✍️ When possible, I like to write articles on medium.com to share my learnings with the community. You can check out my post [here](https://medium.com/@lathashreeh).
 
 
 ## 📫 Let us Connect 
