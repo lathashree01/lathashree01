@@ -7,15 +7,15 @@
 ## About Me:
 I am a **Machine Learning Engineer** specialising in **Computer Vision, NLP (LLMs), and MLOps**, currently building ML solutions for subsea systems at **Beam**.
 
-- 🔹 Experienced in designing **scalable and efficient ML solutions**, focusing on **quantisation, distributed training, and ML best practices**.  
-- ⏮️ Previously a **Senior Engineer at Sony**, driving ML-powered solutions to drive the business impact of various Sony entities within Sony Corporation.
-- 🎓 Hold an MSc degree in **AI & ML from [Imperial College London](https://www.imperial.ac.uk/)**.
-- ❤️ Passionate about learning new things and always full of energy!  
-- 🌱 Thrive in challenging environments; driven by the desire to push the boundaries of technology and create a positive impact.  
+- Experienced in designing **scalable and efficient ML solutions**, focusing on **quantisation, distributed training, and ML best practices**.  
+- Previously a **Senior Engineer at Sony**, driving ML-powered solutions to drive the business impact of various Sony entities within Sony Corporation.
+- Hold an MSc degree in **AI & ML from [Imperial College London](https://www.imperial.ac.uk/)**.
+- Passionate about learning new things and always full of energy!  
+- Thrive in challenging environments; driven by the desire to push the boundaries of technology and create a positive impact.  
 
 ### 🔬 Research & Projects  
-- 🚀 Pre-trained and fine-tuned **LLaMA 2** for the **healthcare domain** (named them as Clini-LLaMA) using **DeepSpeed and PEFT quantisation**.  
-- 📖 Passionate about **AI research**, staying updated through **conferences, papers, and hands-on experimentation**. You can find some of my work here on GitHub and my learning history on LinkedIn.
+- Pre-trained and fine-tuned **LLaMA 2** for the **healthcare domain** (named them as Clini-LLaMA) using **DeepSpeed and PEFT quantisation**.  
+- Passionate about **AI research**, staying updated through **conferences, papers, and hands-on experimentation**. You can find some of my work here on GitHub and my learning history on LinkedIn.
 - ✍️ When possible, I like to write articles on medium.com to share my learnings with the community. You can check out my post [here](https://medium.com/@lathashreeh).
 
 
